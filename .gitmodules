@@ -1,0 +1,3 @@
+[submodule "purascents-auth"]
+	path = purascents-auth
+	url = https://github.com/puradev/purascents-auth.git
